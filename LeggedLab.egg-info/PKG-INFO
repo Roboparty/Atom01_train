@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: LeggedLab
+Version: 1.0.0
+License-File: LICENSE.txt
+Requires-Dist: rsl-rl-lib>=2.3.0
+Requires-Dist: mujoco==2.3.6
+Dynamic: license-file
+Dynamic: requires-dist
