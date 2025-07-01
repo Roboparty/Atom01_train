@@ -11,13 +11,12 @@
 
 ## Overview
 
-This repository provides a direct workflow for training a legged robot using IsaacLab. It provides high transparency and low refactoring difficulty of the direct environment, and uses isaaclab components to simplify the workflow.
+This repository provides a direct workflow for training a legged robot using IsaacLab. It provides high transparency and low refactoring difficulty of the direct environment, and uses isaaclab components to simplify the workflow.Now we transfer to Roboparty ATOM01 robot 
 
 It has all the necessary conditions for sim-to-real and has been tested on real unitree g1 and h1 robots, [video available](https://www.bilibili.com/video/BV1tNRgYQEnr/).
-Deploy Code: https://github.com/Hellod035/LeggedLabDeploy
 
-**Maintainer**: Wandong Sun
-**Contact**: 24b908020@stu.hit.edu.cn
+**Maintainer**: Wandong Sun、Junchen Liu
+**Contact**: 24b908020@stu.hit.edu.cn、liujunchen@roboparty.cn
 
 **Key Features:**
 
@@ -97,6 +96,13 @@ This project repository builds upon the shoulders of giants.
 If you use Legged Lab in your research, you can cite it as follows:
 
 ```bibtex
+@software{LeggedLab,
+  author = {Junchen, Liu、Yi, Huang},
+  license = {BSD-3-Clause},
+  title = {Legged Lab in Atom01: Direct IsaacLab Workflow for Legged Robots},
+  url = {https://github.com/Roboparty/Atom01_train},
+  year = {2025}
+}
 @software{LeggedLab,
   author = {Wandong, Sun},
   license = {BSD-3-Clause},
